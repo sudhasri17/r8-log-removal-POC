@@ -1,0 +1,8 @@
+<dependencies>
+  <compile
+      roots="/Users/sjanarthanam/Android Samples/proguard/examples/android-plugin@@:::debug">
+    <dependency
+        name="/Users/sjanarthanam/Android Samples/proguard/examples/android-plugin@@:::debug"
+        simpleName=":"/>
+  </compile>
+</dependencies>

@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:3:11-32
+		INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+		INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:5:11-36
+		INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+		INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+		INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+application
+ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:6:5-16:19
+	android:label
+		ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:6:18-50
+	android:icon
+		ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:7:18-54
+	android:theme
+		ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:8:18-49
+activity#com.example.HelloWorldActivity
+ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:9:8-15:20
+	android:label
+		ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:10:18-50
+	android:name
+		ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:9:18-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml:13:27-74
+uses-sdk
+INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+		ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+		INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+		ADDED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml
+		INJECTED from /Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/AndroidManifest.xml

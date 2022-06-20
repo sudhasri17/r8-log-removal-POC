@@ -1,0 +1,21 @@
+com.example.BuildConfig:
+    public static final java.lang.String APPLICATION_ID
+    public static final java.lang.String BUILD_TYPE
+    public static final boolean DEBUG
+    public static final int VERSION_CODE
+    public static final java.lang.String VERSION_NAME
+com.example.Logger:
+    public static final java.lang.String DEBUG
+    public static final java.lang.String ERROR
+    public static final java.lang.String VERBOSE
+com.example.R$color:
+    public static final int accent
+    public static final int primary
+    public static final int primary_dark
+    public static final int primary_light
+com.example.R$drawable:
+    public static final int ic_launcher
+com.example.R$string:
+    public static final int app_name
+com.example.R$style:
+    public static final int AppTheme

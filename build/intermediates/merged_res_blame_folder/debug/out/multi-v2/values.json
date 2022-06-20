@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "233",
+                        "endColumns": "54",
+                        "endOffsets": "283"
+                    }
+                },
+                {
+                    "source": "/Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "342"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "288",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "575"
+                    }
+                },
+                {
+                    "source": "/Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/res/values/colors.xml",
+                    "from": {
+                        "startLines": "5,2,3,4",
+                        "startColumns": "2,2,2,2",
+                        "startOffsets": "184,53,93,138",
+                        "endColumns": "38,39,44,45",
+                        "endOffsets": "220,90,135,181"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,96,138,185",
+                        "endColumns": "40,41,46,47",
+                        "endOffsets": "91,133,180,228"
+                    }
+                }
+            ]
+        }
+    ]
+}

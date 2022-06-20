@@ -1,0 +1,2 @@
+com.example.HelloWorldActivity
+com.example.HelloWorldActivity: HelloWorldActivity()

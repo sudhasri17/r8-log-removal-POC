@@ -1,0 +1,19 @@
+# compiler: R8
+# compiler_version: 3.0.62
+# min_api: 21
+# pg_map_id: 96efde1
+# common_typos_disable
+com.example.BuildConfig -> a.a:
+com.example.HelloWorldActivity -> com.example.HelloWorldActivity:
+    com.example.Logger logger -> a
+    1:1:void com.example.Logger.log(java.lang.String,java.lang.String,java.lang.String):0:0 -> onCreate
+    1:1:void onCreate(android.os.Bundle):0 -> onCreate
+com.example.Logger -> a.b:
+    void log(java.lang.String,java.lang.String,java.lang.String) -> a
+    void logDebug(java.lang.String,java.lang.String) -> b
+    void logVerbose(java.lang.String,java.lang.String) -> c
+com.example.R -> a.g:
+com.example.R$color -> a.c:
+com.example.R$drawable -> a.d:
+com.example.R$string -> a.e:
+com.example.R$style -> a.f:

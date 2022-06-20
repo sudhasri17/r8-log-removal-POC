@@ -1,0 +1,4 @@
+#Tue Jun 21 00:58:06 IST 2022
+base.0=/Users/sjanarthanam/Android Samples/proguard/examples/android-plugin/build/intermediates/dex/debug/minifyDebugWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
